@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+vendas_experimento.csv
+tempos_individuais.csv
+resumo_tempos.csv
+matriz_confusao_lof.png
