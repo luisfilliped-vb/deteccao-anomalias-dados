@@ -1,6 +1,6 @@
 # Detecção automática de anomalias em dados
 
-Trabalho da disciplina de Banco de Dados da UNIPAMPA, grupo 4. Compara regras tradicionais, Isolation Forest e Local Outlier Factor (LOF) em dados sintéticos de vendas.
+Trabalho da disciplina de Banco de Dados da UNIPAMPA, grupo 7. Compara regras tradicionais, Isolation Forest e Local Outlier Factor (LOF) em dados sintéticos de vendas.
 
 ## Arquivos
 
